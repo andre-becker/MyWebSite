@@ -1,2 +1,2 @@
-This is first file SAME LINE
+This is first file SAME LINE lalala
 new test
